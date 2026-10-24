@@ -1,6 +1,6 @@
 ---
 name: image-enhancer
-description: Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and clarity. Perfect for preparing images for presentations, documentation, or social media posts.
+description: Improves the quality of existing image files (PNG, JPG, WebP), especially screenshots, by upscaling resolution, sharpening edges and text, and reducing blur, noise and compression artifacts, while keeping the originals as a backup. Use this skill whenever the user wants an image or screenshot to look sharper, crisper, clearer, less blurry, less pixelated or higher-resolution, for example to upscale to 2x/retina/4K, fix a fuzzy screenshot, clean up a JPEG, or prep images for a blog post, docs, slides, print or social media (Twitter/X, LinkedIn, Instagram). This also covers batch requests like "enhance every PNG in this folder", even when the user doesn't say "enhance". Don't use it to generate new images, design graphics, remove backgrounds, or do creative edits such as filters, cropping for composition or color grading.
 ---
 
 # Image Enhancer
